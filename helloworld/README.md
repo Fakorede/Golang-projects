@@ -2,7 +2,7 @@
 
 > A basic hello world program in the GO programming lang.
 
-### Explanation
+## Explanation
 
 **package main** - Each source file begins with a package declaration. Here _package main_ states which package the file belongs to.
 
@@ -11,8 +11,8 @@
 **func main** - This is where execution of the program begins. Whatever **main** does is what the program does.
 **func** is a function declaration. A function declaration consists of the keyword **func**, the name of the fucntion, a parameter list(empty for main), the body of the function and the statement that defines what it does(enclosed in braces).
 
-### Run Program
+## Run Program
 
 ```
-$ go run helloworld.go
+$ go run main.go
 ```
