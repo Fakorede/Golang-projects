@@ -15,3 +15,15 @@
 **saveToFile** - Save a list of cards to a file on the local machine.
 
 **newDeckFromFile** - Load a list of cards from the local machine.
+
+## Run Program
+
+```
+$ go run main.go deck.go
+```
+
+## Run Tests
+
+```
+$ go test
+```
