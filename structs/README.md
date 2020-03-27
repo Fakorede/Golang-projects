@@ -1,6 +1,6 @@
-# MAPS
+# STRUCT
 
-## STRUCT
+## Properties
 
 - Used to represent a "thing" with a lot of different properties
 
