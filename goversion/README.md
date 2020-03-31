@@ -7,7 +7,7 @@ goversion is a simple library package that returns the version of Go installed o
 Install with the command:
 
 ```
-go get -u https://github.com/Fakorede/Learning-Golang/goversion
+go get -u https://github.com/Fakorede/Learning-Golang/tree/master/goversion
 ```
 
 ### Usage
