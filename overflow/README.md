@@ -10,7 +10,7 @@ Instead, the values _wraps around_ to the minimum negative or maximum positive d
 
 ## Cheat Sheet
 
-| **Signed Types**  |              |
+| **SIGEND TYPES**  |              |
 | ----------------- | ------------ |
 | Minimum value - 1 | Max Positive |
 | Maximum value + 1 | Min Negative |
@@ -20,7 +20,7 @@ Instead, the values _wraps around_ to the minimum negative or maximum positive d
 |             -128 - 1              |  127 |
 |              127 + 1              | -128 |
 
-| **Unsigned Types** |              |
+| **UNSIGNED TYPES** |              |
 | ------------------ | :----------: |
 | Minimum value - 1  | Max Positive |
 | Maximum value + 1  |     Zero     |
