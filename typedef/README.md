@@ -45,8 +45,8 @@ These are the very same types with a new name.
 
 **Example**
 
-- `byte` and `uint8` are exactly the same types with different names.
-- `rune` and `int32` are also exactly the same types with different names.
+1. `byte` and `uint8` are exactly the same types with different names.
+2. `rune` and `int32` are also exactly the same types with different names.
 
 - _Aliased Types_ can be used together without type conversions.
 - _Aliased Types_ can be represented as:
