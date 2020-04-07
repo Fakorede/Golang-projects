@@ -6,18 +6,26 @@ import (
 	"strconv"
 )
 
-const errMsg = "ERROR: Kindly specify the range of multiplication table to be generated."
+const (
+	errMsg1 = "ERROR: Kindly specify the range of multiplication table to be generated."
+	errMsg2 = "ERROR: kindly ensure the passed argument is of type int."
+)
 
 func main() {
 
 	// ensures an argument is passed
 	if len(os.Args) != 2 {
-		fmt.Println(errMsg)
+		fmt.Println(errMsg1)
 		return
 	}
 
-	// converts to int
-	n, _ := strconv.Atoi(os.Args[1])
+	// converts argument to int
+	n, err := strconv.Atoi(os.Args[1])
+
+	if err != nil {
+		fmt.Println(errMsg2)
+		return
+	}
 
 	fmt.Printf("%5s", "X")
 
