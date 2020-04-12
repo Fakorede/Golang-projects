@@ -5,7 +5,7 @@ Get username from command-line and randomly select and print one of the mood mes
 ### Usage
 
 ```
-go run main.go [name]
+go run main.go [name] [mood]
 ```
 
-> pass a name argument to run the program
+> pass a name and mood arguments to run the program. [mood] can only be 'positive' or 'negative'
