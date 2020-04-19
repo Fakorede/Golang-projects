@@ -13,3 +13,9 @@
 - [Method Declarations, Value Receiver, Point Receiver](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/02-method-receivers-on-struct-and-scalar-types/01-method-declarations)
 
 ## Function and Method Expressions
+
+- [Anonymous Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/01-anonymous-functions)
+- [Assigning Functions]()
+- [Fucnctions as Parameters]()
+- [Returning Functions from Functions]()
+- [Stateful Functions]()
