@@ -17,4 +17,4 @@
 - [Anonymous Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/01-anonymous-functions)
 - [Returning Functions from Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/02-returning-functions-from-functions)
 - [Functions as Parameters](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/03-functions-as-parameters)
-- [Stateful Functions]()
+- [Stateful Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/04-stateful-functions)
