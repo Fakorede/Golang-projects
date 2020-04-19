@@ -18,3 +18,12 @@
 - [Returning Functions from Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/02-returning-functions-from-functions)
 - [Functions as Parameters](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/03-functions-as-parameters)
 - [Stateful Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/04-stateful-functions)
+
+## Control Flow in Functions
+
+- [Error Handling](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/04-control-flow-in-functions/01-error-handling)
+- [Continue On Error]()
+- [Defer Functions]()
+- [Panic]()
+- [Recover From Panics]()
+- [Panic On Recovery]()
