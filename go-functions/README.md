@@ -6,6 +6,6 @@
 - [Multiple Return Values](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/01-function-parameters-return-values/02-multiple-return-values)
 - [Variadic Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/01-function-parameters-return-values/03-variadic-functions)
 - [Public and Private Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/01-function-parameters-return-values/04-public-private-functions)
-- Named Return Values
+- [Naming Return Values](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/01-function-parameters-return-values/05-naming-return-values)
 
 ###
