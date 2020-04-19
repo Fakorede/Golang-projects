@@ -15,7 +15,6 @@
 ## Function and Method Expressions
 
 - [Anonymous Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/01-anonymous-functions)
-- [Assigning Functions]()
-- [Fucnctions as Parameters]()
-- [Returning Functions from Functions]()
+- [Returning Functions from Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/02-returning-functions-from-functions)
+- [Functions as Parameters](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/03-function-and-method-expressions/03-functions-as-parameters)
 - [Stateful Functions]()
