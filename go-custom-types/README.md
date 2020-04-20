@@ -4,7 +4,7 @@ We're going to be building a person object where we'll be creating some simple f
 
 - [Interfaces and Structs](https://github.com/Fakorede/Learning-Golang/tree/master/go-custom-types/01-interfaces-and-structs)
 
-- [Type definitions and Aliases]()
+- [Type definitions and Aliases](https://github.com/Fakorede/Learning-Golang/tree/master/go-custom-types/02-type-definitions-and-aliases)
 
 - [Composition with Embedded Types]()
 
