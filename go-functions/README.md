@@ -23,7 +23,7 @@
 
 - [Error Handling](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/04-control-flow-in-functions/01-error-handling)
 - [Continue On Error](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/04-control-flow-in-functions/02-continue-on-error)
-- [Defer Functions]()
+- [Defer Functions](https://github.com/Fakorede/Learning-Golang/tree/master/go-functions/04-control-flow-in-functions/03-defer)
 - [Panic]()
 - [Recover From Panics]()
 - [Panic On Recovery]()
