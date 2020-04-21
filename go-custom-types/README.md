@@ -9,5 +9,3 @@ We're going to be building a person object where we'll be creating some simple f
 - [Composition with Embedded Types](https://github.com/Fakorede/Learning-Golang/tree/master/go-custom-types/03-composition-with-embedded-types)
 
 - [Comparable Types](https://github.com/Fakorede/Learning-Golang/tree/master/go-custom-types/04-comparable-types)
-
-- [Switching on Types]()
