@@ -8,6 +8,8 @@ A map is a collection of indexable key-value pairs. It allows us to quickly acce
 
 - Keys are indexed - we can iterate over them.
 
+- A map doesn't accept duplicate keys.
+
 - Don't need to know all the keys at compile time.
 
 - All keys must be of the same type.
