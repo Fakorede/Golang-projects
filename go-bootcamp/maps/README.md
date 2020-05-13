@@ -1,5 +1,7 @@
 # MAPS
 
+A map is a collection of indexable key-value pairs.
+
 ## Properties
 
 - Used to represent a collection of related properties
