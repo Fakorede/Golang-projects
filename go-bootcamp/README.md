@@ -13,4 +13,7 @@
 - multiplication-table: Multiplication table using nested for loop.
 - lucky-number: Number guessing game.
 - word-finder: Simple search engine.
-- moodly: generates a random mood.
+- moodly: Generates a random mood.
+- spam masker:
+- log parser: Analyze and report website visits from a log file.
+- file finder:
