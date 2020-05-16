@@ -22,3 +22,7 @@ Run the program:
 ```
 go run main.go < proverbs.txt
 ```
+
+# Use Maps as Sets
+
+A set contains only unique values.
