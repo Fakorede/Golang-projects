@@ -22,20 +22,8 @@ func main() {
 			return
 		}
 
-		domain, visits := parsed.domain, parsed.visits
+		p = update(p, parsed)
 
-		// unique domains
-		if _, ok := p.sum[domain]; !ok {
-			p.domains = append(p.domains, domain)
-		}
-
-		// total and per domain visits
-		p.total += visits
-
-		p.sum[domain] = result{
-			domain: domain,
-			visits: visits + p.sum[domain].visits,
-		}
 	}
 
 	fmt.Printf("%-30s %10s\n", "DOMAIN", "VISITS")
